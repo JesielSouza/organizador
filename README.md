@@ -44,7 +44,7 @@ Isso gera a pasta `pasta_teste_organizador` com arquivos diversos para você tes
 
 ## Requisitos
 
-- Python 3.x
+- Python 3.13
 - Apenas módulos padrão (`os`, `shutil`)
 
 ---
